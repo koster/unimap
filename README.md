@@ -1,1 +1,1 @@
-![](https://github.com/unimap/promo/demo.gif)
+[](https://github.com/koster/unimap/blob/main/Promo/demo.gif)
